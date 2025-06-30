@@ -1,0 +1,14 @@
+                            precision    recall  f1-score   support
+
+            BA- cellulitis       0.97      0.94      0.95        33
+               BA-impetigo       0.95      1.00      0.98        20
+           FU-athlete-foot       0.97      0.97      0.97        32
+            FU-nail-fungus       1.00      1.00      1.00        33
+               FU-ringworm       1.00      0.96      0.98        23
+PA-cutaneous-larva-migrans       0.96      0.96      0.96        25
+             VI-chickenpox       1.00      1.00      1.00        34
+               VI-shingles       0.97      1.00      0.99        33
+
+                  accuracy                           0.98       233
+                 macro avg       0.98      0.98      0.98       233
+              weighted avg       0.98      0.98      0.98       233
